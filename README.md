@@ -1,2 +1,2 @@
-# Laravel-todo-list
+todo-list
 Using Laravel data insert edit update and delete
